@@ -27,7 +27,7 @@ class OverridingCalculator extends Calculator2 {
 	}*/
 	// 메서드의 서명(Signature)
 	// 부모 클래스 메서드 자료형과 상속 클래스의 메서드 자료형이 다르면
-	// Overriding 할 수 없다.
+	// Overriding 할 수 없다.sdsd
 	// (매개 변수도 동일해야 한다.) 
 }
 
